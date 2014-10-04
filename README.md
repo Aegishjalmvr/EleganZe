@@ -1,4 +1,5 @@
 EleganZe
 ========
 
-the repository for EleganZe Gnome-Shell theme
+Is a minimalistic approach on the gnome-shell theme
+
